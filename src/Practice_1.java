@@ -10,6 +10,7 @@ public class Practice_1
         System.out.println("...");
         System.out.printf("%d x %d = %d",num,10,num*10).println();
     }
+
 }
 
 
